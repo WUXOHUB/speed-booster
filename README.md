@@ -1,0 +1,2 @@
+# speed-booster
+loadstring
